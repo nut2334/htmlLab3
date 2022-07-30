@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+    list-style-position: inside;
+}
+ol{
+    text-align: justify;
+    display: inline-block;
+}
